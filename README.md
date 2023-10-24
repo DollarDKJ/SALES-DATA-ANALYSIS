@@ -2,7 +2,7 @@
 
 ![Sales](https://github.com/DollarDKJ/SALES-DATA-ANALYSIS/assets/81152387/c09a5a6c-9387-4439-9e45-f9bb0df710b9)
 
-Goal 
+Goal
 The goal of the project is to analyze large sales dataset from an online retail store to identify sales trend over time, identify the best-selling products, calculate revenue metrics and make business decisions based on the analysis.
 
 Tools
